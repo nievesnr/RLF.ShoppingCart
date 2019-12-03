@@ -1,0 +1,20 @@
+.sapUiRabolagartijaCart .welcomePrice  {
+	width: 100%;
+	padding: 0;
+	border-bottom-width: 0;
+}
+
+.sapUiRabolagartijaCart .welcomeCarouselText {
+	color: white;
+	display: block;
+	position: fixed;
+	bottom: 0;
+	padding: 1rem;
+	font-size: 1.5rem;
+	width: 100%;
+	text-shadow: 0 0 0.125rem black;
+}
+
+.productPrice {
+    background-color: transparent;
+}

@@ -1,0 +1,27 @@
+[
+	{
+		"CategoryName" : "Abonos",
+		"Category" : "AB",
+		"NumberOfProducts" : 4
+	},
+	{
+		"CategoryName" : "Camping",
+		"Category" : "CA",
+		"NumberOfProducts" : 3
+	},
+	{
+		"CategoryName" : "Bono Duchas",
+		"Category" : "BD",
+		"NumberOfProducts" : 1
+	},
+	{
+		"CategoryName" : "Buses Oficiales",
+		"Category" : "BO",
+		"NumberOfProducts" : 5
+	},
+	{
+		"CategoryName" : "Merchandising",
+		"Category" : "ME",
+		"NumberOfProducts" : 6
+	}
+]

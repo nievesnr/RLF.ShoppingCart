@@ -1,0 +1,212 @@
+[
+	{
+		"ProductId": "AB-1000",
+		"Category": "AB",
+		"MainCategory": "Abonos",
+		"ShortDescription": "Incluye el acceso a 1 día a escoger del festival",
+		"Name": "Abono 1 día",
+		"PictureUrl": "sap/ui/rabolagartija/mock/images/HT-1000.jpg",
+		"Status": "A",
+		"Price": "27",
+		"CurrencyCode": "EUR"
+
+	},
+	{
+		"ProductId": "AB-1001",
+		"Category": "AB",
+		"MainCategory": "Abonos",
+		"ShortDescription": "Incluye el acceso a 2 días a escoger del festival",
+		"Name": "Abono 2 días",
+		"PictureUrl": "sap/ui/rabolagartija/mock/images/HT-1001.jpg",
+		"Status": "A",
+		"Price": "45",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "AB-1002",
+		"Category": "AB",
+		"MainCategory": "Abonos",
+		"ShortDescription": "Incluye el acceso a los 3 días del festival",
+		"Name": "Abono Completo",
+		"PictureUrl": "sap/ui/rabolagartija/mock/images/HT-1002.jpg",
+		"Status": "A",
+		"Price": "65",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "AB-1003",
+		"Category": "AB",
+		"MainCategory": "Abonos",
+		"ShortDescription": "Incluye el acceso a los 3 días del festival, así como el acceso ilimitado a la zona de piscina privada",
+		"Name": "Abono VIP",
+		"PictureUrl": "sap/ui/rabolagartija/mock/images/HT-1002.jpg",
+		"Status": "A",
+		"Price": "95",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "CA-1000",
+		"Category": "CA",
+		"MainCategory": "Camping",
+		"ShortDescription": "Capacidad para 1/2 personas, Tienda con suelo acolchado, Zona acotada, con seguridad ampliada *El precio no incluye la entrada al festival",
+		"Name": "Cutre-Tienda ",
+		"PictureUrl": "sap/ui/rabolagartija/mock/images/HT-1003.jpg",
+		"Status": "A",
+		"Price": "50",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "CA-1001",
+		"Category": "CA",
+		"MainCategory": "Camping",
+		"ShortDescription": "Capacidad para 1/2 personas, Tienda con suelo acolchado, Colchón, Desayuno Buffet, Zona acotada, con seguridad ampliada *El precio no incluye la entrada al festival",
+		"Name": "Tienda Cool",
+		"PictureUrl": "sap/ui/rabolagartija/mock/images/HT-1007.jpg",
+		"Status": "D",
+		"Price": "140",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "CA-1002",
+		"Category": "CA",
+		"MainCategory": "Camping",
+		"ShortDescription": "Capacidad para 3/4 personas, Tienda con suelo acolchado, Colchón, Desayuno Buffet, Zona acotada, con seguridad ampliada *El precio no incluye la entrada al festival",
+		"Name": "Tienda Deluxe",
+		"PictureUrl": "sap/ui/rabolagartija/mock/images/HT-1010.jpg",
+		"Status": "A",
+		"Price": "250",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "BD-1000",
+		"Category": "BD",
+		"MainCategory": "Bono Duchas",
+		"ShortDescription": "Duchas ilimitadas de agua caliente durante todo el festival",
+		"Name": "Duchas Ilimitadas",
+		"PictureUrl": "sap/ui/rabolagartija/mock/images/HT-1011.jpg",
+		"Status": "O",
+		"Price": "3.9",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "BO-1000",
+		"Category": "BO",
+		"MainCategory": "Buses Oficiales",
+		"ShortDescription": "Autobús oficial desde Madrid hasta el recinto del festival en Villena. Ida y vuelta incluida.",
+		"Name": "Madrid RaboBus",
+		"PictureUrl": "sap/ui/rabolagartija/mock/images/HT-1022.jpg",
+		"Status": "A",
+		"Price": "30",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "BO-1001",
+		"Category": "BO",
+		"MainCategory": "Buses Oficiales",
+		"ShortDescription": "Autobús oficial desde Barcelona hasta el recinto del festival en Villena. Ida y vuelta incluida.",
+		"Name": "Barcelona RaboBus",
+		"PictureUrl": "sap/ui/rabolagartija/mock/images/HT-1022.jpg",
+		"Status": "A",
+		"Price": "52",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "BO-1002",
+		"Category": "BO",
+		"MainCategory": "Buses Oficiales",
+		"ShortDescription": "Autobús oficial desde Barcelona hasta el recinto del festival en Villena. Ida y vuelta incluida.",
+		"Name": "Alicante RaboBus",
+		"PictureUrl": "sap/ui/rabolagartija/mock/images/HT-1022.jpg",
+		"Status": "A",
+		"Price": "10",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "BO-1003",
+		"Category": "BO",
+		"MainCategory": "Buses Oficiales",
+		"ShortDescription": "Autobús oficial desde Granada hasta el recinto del festival en Villena. Ida y vuelta incluida.",
+		"Name": "Granada",
+		"PictureUrl": "sap/ui/rabolagartija/mock/images/HT-1022.jpg",
+		"Status": "A",
+		"Price": "42",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "BO-1004",
+		"Category": "BO",
+		"MainCategory": "Buses Oficiales",
+		"ShortDescription": "Autobús oficial desde Bilbao hasta el recinto del festival en Villena. Ida y vuelta incluida.",
+		"Name": "Bilbao Rabobus",
+		"PictureUrl": "sap/ui/rabolagartija/mock/images/HT-1022.jpg",
+		"Status": "A",
+		"Price": "70",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "ME-1000",
+		"Category": "ME",
+		"MainCategory": "Merchandising",
+		"ShortDescription": "Camiseta unisex de algodón con el logotipo oficial del festival, talla única",
+		"Name": "Camiseta",
+		"PictureUrl": "sap/ui/rabolagartija/mock/images/HT-1023.jpg",
+		"Status": "A",
+		"Price": "25",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "ME-1001",
+		"Category": "ME",
+		"MainCategory": "Merchandising",
+		"ShortDescription": "Pack de 10 vasos ecológicos con los motivos oficiales del festival",
+		"Name": "Pack 10 vasos",
+		"PictureUrl": "sap/ui/rabolagartija/cart/images/Vasos.jpg",
+		"Status": "D",
+		"Price": "4",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "ME-1002",
+		"Category": "ME",
+		"MainCategory": "Merchandising",
+		"ShortDescription": "Pack de 3 chachi-pegatinas",
+		"Name": "Pack 3 pegatinas",
+		"PictureUrl": "sap/ui/rabolagartija/cart/images/Pegatinas.jpg",
+		"Status": "O",
+		"Price": "3",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "ME-1003",
+		"Category": "ME",
+		"MainCategory": "Merchandising",
+		"ShortDescription": "Bolsa orgánica y reutilizable con el logotipo del festival",
+		"Name": "Bolsa Tela",
+		"PictureUrl": "sap/ui/rabolagartija/cart/images/Bolsa.jpg",
+		"Status": "A",
+		"Price": "15",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "ME-1004",
+		"Category": "ME",
+		"MainCategory": "Merchandising",
+		"ShortDescription": "Cartel Oficial del festival con los artistas invitados",
+		"Name": "Cartel Festival",
+		"PictureUrl": "sap/ui/rabolagartija/cart/images/Cartel.jpg",
+		"Status": "O",
+		"Price": "8",
+		"CurrencyCode": "EUR"
+	},
+	{
+		"ProductId": "ME-1005",
+		"Category": "ME",
+		"MainCategory": "Merchandising",
+		"ShortDescription": "Programa de actuaciones del festival con horarios y escenarios",
+		"Name": "Programa Festival",
+		"PictureUrl": "sap/ui/rabolagartija/cart/images/Programa.jpg",
+		"Status": "O",
+		"Price": "2",
+		"CurrencyCode": "EUR"
+	}
+]

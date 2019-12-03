@@ -1,0 +1,20 @@
+<mvc:View
+	controllerName="sap.ui.rabolagartija.cart.controller.App"
+	displayBlock="true"
+	xmlns="sap.m"
+	xmlns:f="sap.f"
+	xmlns:mvc="sap.ui.core.mvc">
+	<App
+		id="app"
+		class="sapUiRabolagartijaCart">
+		<f:FlexibleColumnLayout
+			id="layout"
+			busy="{appView>/busy}"
+			busyIndicatorDelay="{appView>/delay}"
+			layout="{appView>/layout}"
+			backgroundDesign="Translucent"
+			class="sapUiRabolagartijaCart"
+			stateChange=".onStateChange">
+		</f:FlexibleColumnLayout>
+	</App>
+</mvc:View>

@@ -1,0 +1,14 @@
+[
+  {
+    "ProductId": "AB-1002",
+    "Type": "Favorite"
+  },
+  {
+    "ProductId": "ME-1005",
+    "Type": "Favorite"
+  },
+  {
+    "ProductId": "ME-1000",
+    "Type": "Favorite"
+  }
+]
